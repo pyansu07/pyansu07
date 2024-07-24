@@ -9,7 +9,7 @@
 
 - 👨‍💻  IIIT Nagpur undergrad, mastering frontend and backend while pushing boundaries with AI/ML to build standout web apps.
 
-- 👨‍💻 All of my projects are available at [https://pyansu07.github.io/Portfolio/](https://pyansu07.github.io/Portfolio/)
+- 👨‍💻 Some of my projects are available at [https://pyansu07.github.io/Portfolio/](https://pyansu07.github.io/Portfolio/)
 
 - 📫 How to reach me **pyansu.07@gmail.com**
 
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/in/pyansu-nahak-015a3024b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/pyansu-nahak-015a3024b" height="30" width="40" /></a>
 </p>
 
-<h4 align="center">🛡️⚔️Languages-Frameworks-Tools⚔️🛡️</h4>
+<h3 align="center">🛡️⚔️Languages-Frameworks-Tools⚔️🛡️</h3>
 <br/>
 <div align="center">
 <a href="https://skillicons.dev">
