@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase"/><br>
 <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,typescript,php,python,java"/><br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,bootstrap,redux,tailwind,threejs,babel,materialui,qt"/><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,ps,figma,matlab,postman,linux,github,git,stackoverflow,androidstudio,idea,sublime,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,ps,figma,matlab,postman,linux,github,git,stackoverflow,androidstudio,pycharm,sublime,vscode,visualstudio"/>
 </a>
 </div>
 
