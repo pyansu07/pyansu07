@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pyansu.07@gmail.com**
 
-- ⚡ Fun fact : **God's Plan**
+- ⚡ Fun fact : **Centering div is the hardest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
