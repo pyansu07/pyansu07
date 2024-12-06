@@ -13,7 +13,7 @@
 
 - 👨‍💻  IIIT Nagpur undergrad, mastering frontend and backend while pushing boundaries with AI/ML to build standout web apps.
 
-- 👨‍💻 Some of my work are available at [🎁](https://pyansu-nahak.vercel.app/)
+- 👨‍💻 Some of my work are available at 👉["🎁"](https://pyansu-nahak.vercel.app/)
 
 - 📫 How to reach me **pyansu.07@gmail.com**
 
