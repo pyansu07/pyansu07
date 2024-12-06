@@ -9,13 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyansu07&label=Profile%20views&color=0e75b6&style=flat" alt="pyansu07" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@pyansu_nahak" target="blank"><img src="https://img.shields.io/twitter/follow/@pyansu_nahak?logo=twitter&style=for-the-badge" alt="@pyansu_nahak" /></a> </p>
-
 - 👨‍💻  IIIT Nagpur undergrad, mastering frontend and backend while pushing boundaries with AI/ML to build standout web apps.
 
 - 👨‍💻 Some of my work are available at 👉["🎁"](https://pyansu-nahak.vercel.app/)
 
-- 📫 How to reach me **pyansu.07@gmail.com**
+- 📧 : **pyansu.07@gmail.com**
 
 - ⚡ Fun fact : **Centering div is the hardest**
 
@@ -33,8 +31,8 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase"/><br>
 <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,typescript,php,python,java"/><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,bootstrap,redux,tailwind,threejs,babel,materialui,qt"/><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,ps,figma,matlab,postman,linux,github,git,stackoverflow,androidstudio,pycharm,sublime,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,bootstrap,redux,tailwind,threejs,materialui"/><br>
+<img src="https://skillicons.dev/icons?i=matlab,postman,linux,github,git,stackoverflow,androidstudio"/>
 </a>
 </div>
 
