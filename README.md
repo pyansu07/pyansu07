@@ -32,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase"/><br>
 <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,typescript,php,python,java"/><br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,bootstrap,redux,tailwind,threejs,materialui"/><br>
-<img src="https://skillicons.dev/icons?i=matlab,postman,linux,github,git,stackoverflow,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=postman,linux,github,git,stackoverflow,androidstudio"/>
 </a>
 </div>
 
