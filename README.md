@@ -9,7 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyansu07&label=Profile%20views&color=0e75b6&style=flat" alt="pyansu07" /> </p>
 
-- 👨‍💻  IIIT Nagpur undergrad, mastering frontend and backend while pushing boundaries with AI/ML to build standout web apps.
+- 🎓 IIIT Nagpur undergrad mastering in frontend and backend development.
+- 🤖 Passionate about leveraging AI/ML to build innovative and standout web applications.
 
 - 📝 Some of my work are available at 👉 ["🎁"](https://pyansu-nahak.vercel.app/)
 - 🌱 I'm exploring different fields in software development and learning new skills.
@@ -23,14 +24,20 @@
 <a href="https://twitter.com/@pyansu_nahak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pyansu_nahak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/pyansu-nahak-015a3024b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/pyansu-nahak-015a3024b" height="30" width="40" /></a>
 </p>
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/naruhitokaide/naruhitokaide/main/divider2.png" alt="divider"/>
-</div> 
-<h3 align="center">🛡️⚔️Languages-Frameworks-Tools⚔️🛡️</h3>
+</div>  -->
+<h2 align="center">🛡️⚔️Languages-Frameworks-Tools⚔️🛡️</h2>
 <br/>
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,typescript,php,python,java,react,nextjs,nodejs,express,vite,redux,tailwind,bootstrap,materialui,threejs,mongodb,mysql,postgres,redis,firebase,postman,linux,git,github,stackoverflow,androidstudio" />
+
+
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyansu07&show_icons=true&theme=radical)  
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyansu07&layout=compact&theme=radical)  -->
 
 
 <!-- <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase"/><br>
@@ -40,6 +47,7 @@
 </a>
 </div>
 
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+</p> -->
