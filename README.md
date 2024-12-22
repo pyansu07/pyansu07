@@ -12,7 +12,7 @@
 - 🎓 IIIT Nagpur undergrad mastering in frontend and backend development.
 - 🤖 Passionate about leveraging AI/ML to build innovative and standout web applications.
 
-- 📝 Some of my work are available at 👉 ["🎁"](https://pyansu-nahak.vercel.app/)
+- 🖥️ Some of my work are available at 👉 ["🎁"](https://pyansu-nahak.vercel.app/)
 - 🌱 I'm exploring different fields in software development and learning new skills.
 
 - 📧 : **pyansu.07@gmail.com**
@@ -20,9 +20,12 @@
 - ⚡ Fun fact : **Centering div is the hardest**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@algo_rizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pyansu_nahak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/pyansu-nahak-015a3024b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/pyansu-nahak-015a3024b" height="30" width="40" /></a>
+<p align="left"> 
+<a href="https://www.github.com/pyansu07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pyansu-nahak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> &nbsp;&nbsp;
+<a href="https://www.x.com/@algo_rizz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>&nbsp;&nbsp;
+<a href="https://discord.com/users/quantumcoder_98704" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a>&nbsp;&nbsp;
+<a href="http://www.instagram.com/pyansunahak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> 
 </p>
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/naruhitokaide/naruhitokaide/main/divider2.png" alt="divider"/>
