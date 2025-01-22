@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyansu07&label=Profile%20views&color=0e75b6&style=flat" alt="pyansu07" /> </p>
 
-* 🎓 Undergrad mastering in frontend and backend development.
+* 🎓 IIIT Undergrad mastering in frontend and backend development.
 * 🤖 Passionate about leveraging AI/ML to build innovative and standout web applications.
 * 🖥️ Some of my work are available at 👉 ["🎁"](https://pyansu-nahak.vercel.app/)
 * 🌱 I'm exploring different fields in software development and learning new skills.
