@@ -1,28 +1,42 @@
-<!-- <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="1050" height="200" alt="MasterHead">-->
-<h1 align="center">Hi 👋, I'm Pyansu Nahak</h1>
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/naruhitokaide/naruhitokaide/main/divider2.png" alt="divider"/>
-</div>  -->
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi, I'm Pyansu Nahak 👋</h1>
+<h3 align="center">Full Stack Developer · Backend-Heavy · Building production systems at scale</h3>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">-->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pyansu07&label=Profile%20views&color=0e75b6&style=flat" alt="pyansu07" /> </p>
-
-* 🎓 IIIT Undergrad mastering in frontend and backend development.
-* ✉️ : **pyansu.07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> 
-<a href="https://www.github.com/pyansu07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp;&nbsp;
-<!-- <a href="https://www.linkedin.com/in/pyansu-nahak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> &nbsp;&nbsp; -->
-<a href="" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>&nbsp;&nbsp;
-<a href="https://discord.com/users/quantumcoder_98704" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a>&nbsp;&nbsp;
-<a href="http://www.instagram.com/pyansunaha" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pyansu07&label=Profile%20views&color=0e75b6&style=flat" alt="pyansu07" />
 </p>
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/naruhitokaide/naruhitokaide/main/divider2.png" alt="divider"/>
-</div>  -->
+
+---
+
+### 💼 Currently
+
+**Full Stack Developer @ Wobbi Logix** (Remote, Australia) — building production systems end-to-end:
+- Shipped a **CMS from scratch** across 3 repos — 30+ REST APIs, 22 live pages, gRPC-backed S3 uploads with zero AWS credential exposure
+- Built a **config-driven onboarding platform** — operators author and version forms, contractors are pinned to their signup-time config so live submissions never break on republish
+- Built a **Driver Onboarding curriculum system** validated with 132 automated tests, including real concurrency scenarios
+
+**Previously @ DetectifAI** — shipped production React/Framer Motion UIs, deployed NGINX on AWS EC2 with SSL/TLS, ran OWASP ZAP security audits, and boosted a data engine's throughput by 92%.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Enroll Assistant](https://github.com/pyansu07/course-enrollment-agent)** | Agentic backend with LLM intent routing + human-in-the-loop confirmation. Found and fixed a routing bug, raising accuracy from **47.62% → 100%** on a 54-case eval suite — measured, not estimated. | FastAPI · LangGraph · ChromaDB |
+| **[Job-X](https://github.com/pyansu07/Job-X)** | Event-driven microservices job platform with Kafka-based async messaging and a Transactional Outbox pattern for zero missed notifications. | Node.js · Kafka · PostgreSQL |
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Rank **165 / 18,720+** teams — Amazon ML Challenge
+- 🏅 Finalist — Imagen AI Hackathon, IIT Delhi
+- 💻 [LeetCode](https://leetcode.com/u/user6707ep/): rating **1810**, top 7% globally
+- ⚔️ [Codeforces](https://codeforces.com/profile/AlgoRizz_18): rating 1390, Rank 970/39,596 (Global Round 191)
+
+---
+
+
 <h2 align="center">🛡️⚔️Languages-Frameworks-Tools⚔️🛡️</h2>
 <br/>
 <div align="center">
@@ -43,7 +57,18 @@
 </a>
 </div>
 
-<!--
+
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p> -->
+  <a href="https://www.linkedin.com/in/pyansu-nahak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:pyansu.07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://pyansu-nahak.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
