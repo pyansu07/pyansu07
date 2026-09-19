@@ -20,11 +20,12 @@
 
 ### 🚀 Featured Projects
 
+
 | Project | What it does | Stack |
 |---|---|---|
 | **[Enroll Assistant](https://github.com/pyansu07/course-enrollment-agent)** | Agentic backend with LLM intent routing + human-in-the-loop confirmation. Found and fixed a routing bug, raising accuracy from **47.62% → 100%** on a 54-case eval suite — measured, not estimated. | FastAPI · LangGraph · ChromaDB |
 | **[Job-X](https://github.com/pyansu07/Job-X)** | Event-driven microservices job platform with Kafka-based async messaging and a Transactional Outbox pattern for zero missed notifications. | Node.js · Kafka · PostgreSQL |
-
+| **[ProxyNova](https://github.com/pyansu07/ProxyNova)** | High-performance proxy server with sequential request handling and an LRU cache (linked list + struct based) achieving O(1) access — reduces bandwidth and improves response time for cached resources. | C · Socket Programming |
 ---
 
 ### 🏆 Achievements
