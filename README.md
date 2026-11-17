@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Pyansu Nahak 👋</h1>
-<h3 align="center">Full Stack Developer · Backend-Heavy · Building production systems at scale</h3>
+<h1 align="center">Hi, I'm Pyansu Nahak</h1>
+<h3 align="center">Full Stack Developer · Building backend-heavy, production-grade systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pyansu07&label=Profile%20views&color=0e75b6&style=flat" alt="pyansu07" />
@@ -7,58 +7,51 @@
 
 ---
 
-### 💼 Currently
+### About Me
 
-**Full Stack Developer @ Wobbi Logix** (Remote, Australia) — building production systems end-to-end:
-- Shipped a **CMS from scratch** across 3 repos — 30+ REST APIs, 22 live pages, gRPC-backed S3 uploads with zero AWS credential exposure
-- Built a **config-driven onboarding platform** — operators author and version forms, contractors are pinned to their signup-time config so live submissions never break on republish
-- Built a **Driver Onboarding curriculum system** validated with 132 automated tests, including real concurrency scenarios
+Final-year student who likes solving real engineering problems — distributed systems, concurrency, and more recently, agentic AI.
 
-**Previously @ DetectifAI** — shipped production React/Framer Motion UIs, deployed NGINX on AWS EC2 with SSL/TLS, ran OWASP ZAP security audits, and boosted a data engine's throughput by 92%.
+- Currently exploring: LLM agents, RAG, and production AI tooling
+- Always sharpening: system design and DSA
+- Ask me about: Node.js, distributed systems, or React performance
+- Reach me: pyansu.07@gmail.com
 
 ---
 
-### 🚀 Featured Projects
+### Previously @ 💼
 
+- Cut **p95 save latency from 1.9s to 120ms** by re-engineering MongoDB autosave to per-field atomic updates
+- Reduced **first paint from 4.1s to 380ms** on the reviewer queue using indexed cursor pagination
+- Scaled a config-driven onboarding platform to **4,800 carriers** with zero-downtime config republishing
+---
+
+### Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
 | **[Enroll Assistant](https://github.com/pyansu07/course-enrollment-agent)** | Agentic backend with LLM intent routing + human-in-the-loop confirmation. Found and fixed a routing bug, raising accuracy from **47.62% → 100%** on a 54-case eval suite — measured, not estimated. | FastAPI · LangGraph · ChromaDB |
 | **[Job-X](https://github.com/pyansu07/Job-X)** | Event-driven microservices job platform with Kafka-based async messaging and a Transactional Outbox pattern for zero missed notifications. | Node.js · Kafka · PostgreSQL |
-| **[ProxyNova](https://github.com/pyansu07/ProxyNova)** | High-performance proxy server with sequential request handling and an LRU cache (linked list + struct based) achieving O(1) access — reduces bandwidth and improves response time for cached resources. | C · Socket Programming |
----
-
-### 🏆 Achievements
-
-- 🥇 Rank **165 / 18,720+** teams — Amazon ML Challenge
-- 🏅 Finalist — Imagen AI Hackathon, IIT Delhi
-- 💻 [LeetCode](https://leetcode.com/u/user6707ep/): rating **1810**, top 7% globally
-- ⚔️ [Codeforces](https://codeforces.com/profile/AlgoRizz_18): rating 1390, Rank 970/39,596 (Global Round 191)
+| **[ProxyNova](https://github.com/pyansu07/ProxyNova)** | High-performance proxy server with sequential request handling and an LRU cache (linked list + struct based) achieving O(1) access. | C · Socket Programming |
 
 ---
 
+### Achievements
 
-<h2 align="center">🛡️⚔️Languages-Frameworks-Tools⚔️🛡️</h2>
-<br/>
-<div align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,typescript,php,python,java,react,nextjs,nodejs,express,vite,redux,tailwind,bootstrap,materialui,threejs,mongodb,mysql,postgres,redis,firebase,postman,linux,git,github,stackoverflow,androidstudio" />
+- Rank **165 / 18,720+** teams — Amazon ML Challenge
+- Finalist — Imagen AI Hackathon, IIT Delhi
+- [LeetCode](https://leetcode.com/u/user6707ep/): rating **1810**, top 7% globally
+- [Codeforces](https://codeforces.com/profile/AlgoRizz_18): rating 1390, Rank 970/39,596 (Global Round 20)
 
+---
 
-<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyansu07&show_icons=true&theme=radical)  
+### Tech Stack
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyansu07&layout=compact&theme=radical)  -->
-
-
-<!-- <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase"/><br>
-<img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,typescript,php,python,java"/><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,bootstrap,redux,tailwind,threejs,materialui"/><br>
-<img src="https://skillicons.dev/icons?i=postman,linux,github,git,stackoverflow,androidstudio"/> -->
-</a>
-</div>
-
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express" />
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,aws,git" />
+</p>
 
 ---
 
